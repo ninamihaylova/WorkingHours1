@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\bin\Debug\net8.0\WorkingHours1.exe
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\bin\Debug\net8.0\WorkingHours1.deps.json
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\bin\Debug\net8.0\WorkingHours1.runtimeconfig.json
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\bin\Debug\net8.0\WorkingHours1.dll
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\bin\Debug\net8.0\WorkingHours1.pdb
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\obj\Debug\net8.0\WorkingHours1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\obj\Debug\net8.0\WorkingHours1.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\obj\Debug\net8.0\WorkingHours1.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\obj\Debug\net8.0\WorkingHours1.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\obj\Debug\net8.0\WorkingHours1.dll
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\obj\Debug\net8.0\refint\WorkingHours1.dll
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\obj\Debug\net8.0\WorkingHours1.pdb
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\obj\Debug\net8.0\WorkingHours1.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\WorkingHours1\WorkingHours1\obj\Debug\net8.0\ref\WorkingHours1.dll
